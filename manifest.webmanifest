@@ -1,9 +1,0 @@
-{
-  "name": "Papa's 60-Day Plan",
-  "short_name": "Papa's Plan",
-  "start_url": "./",
-  "display": "standalone",
-  "background_color": "#f1f7fb",
-  "theme_color": "#2a6f97",
-  "icons": [{ "src": "./papa-icon.png", "sizes": "180x180", "type": "image/png" }]
-}
